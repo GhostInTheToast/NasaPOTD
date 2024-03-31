@@ -50,5 +50,3 @@ public class NasaPOTD {
 
     }
 }
-
-//        System.out.println(NasaPOTD.getPOTD(Helper.apiKey));
